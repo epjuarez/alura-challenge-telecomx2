@@ -1,4 +1,4 @@
-# alura-challenge-telecomx2
+# Alura Challenge Telecomx2
 
 Predicción de Cancelación de Clientes
 
